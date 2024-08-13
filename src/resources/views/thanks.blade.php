@@ -16,4 +16,5 @@
 <div class="thanks-page-bg__inner">
   <span class="thanks-page-bg__text">Thank you</span>
 </div>
+{{-- コメント追加 --}}
 @endsection
